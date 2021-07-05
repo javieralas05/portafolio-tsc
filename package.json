@@ -1,0 +1,31 @@
+{
+  "name": "mi-portafolio",
+  "version": "1.0.0",
+  "description": "portafolio using typescrit, sass, js, css, html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/javieralas05/portafolio-tsc.git"
+  },
+  "keywords": [
+    "typescript",
+    "npm",
+    "git",
+    "github",
+    "sass",
+    "css",
+    "html"
+  ],
+  "author": "Javier Alas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javieralas05/portafolio-tsc/issues"
+  },
+  "homepage": "https://github.com/javieralas05/portafolio-tsc#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
